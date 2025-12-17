@@ -45,5 +45,5 @@ jobs:
           --directory . \
           --repo-id onvkwvrv/vulnerable-front-end-dev-pipeline-branch \
           --branch dev \
-          --source "CLI" \
+          --source "CORTEX_CLI" \
           --create-repo-if-missing
