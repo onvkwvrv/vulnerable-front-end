@@ -44,6 +44,6 @@ jobs:
           code scan \
           --directory . \
           --repo-id onvkwvrv/vulnerable-front-end-dev-pipeline-branch \
-          --branch dev
+          --branch dev \
           --source "CLI" \
           --create-repo-if-missing
